@@ -1,5 +1,6 @@
 # big_data_and_analytics_workshop3
 
+Youtube video: https://youtu.be/x68C1ssv6Bw
 
 It was analized how you could be improved the model of the sentiment-analysis.ipynb of this [repositorie](https://github.com/bigdata-unbosque/social-networks-analysis)
 
